@@ -29,11 +29,7 @@ Weather-App/
 │── README.md
 📸 Preview
 
-Add your project screenshot here.
 
-Example:
-screenshots/weather-app.png
-🔑 API Setup
 
 This project uses the OpenWeatherMap API.
 
